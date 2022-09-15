@@ -47,11 +47,11 @@
   
  ## References
  ### Template and Resources I Used to Build This Awesome README:
- -[Template Walkthrough](https://www.sitepoint.com/github-profile-readme/)
- -[Gif](https://giphy.com/)
- -[Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
- -[Icons](https://github.com/devicons/devicon/tree/master/icons)
- -[GitHub Streaks](https://github.com/DenverCoder1/github-readme-streak-stats)
- -[GitHub Most Used Languages Stats](https://github.com/anuraghazra/github-readme-stats)
- -[Cool Badges](https://shields.io/)
- -[Template Creator](https://github.com/itsZed0)
+ - [Template Walkthrough](https://www.sitepoint.com/github-profile-readme/)
+ - [Gif](https://giphy.com/)
+ - [Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+ - [Icons](https://github.com/devicons/devicon/tree/master/icons)
+ - [GitHub Streaks](https://github.com/DenverCoder1/github-readme-streak-stats)
+ - [GitHub Most Used Languages Stats](https://github.com/anuraghazra/github-readme-stats)
+ - [Cool Badges](https://shields.io/)
+ - [Template Creator](https://github.com/itsZed0)
