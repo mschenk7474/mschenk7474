@@ -1,4 +1,4 @@
-### Hello! I'm Mason SChenk
+### Hello! I'm Mason Schenk
 
 <!--
 **mschenk7474/mschenk7474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
