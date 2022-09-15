@@ -29,8 +29,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mschenk7474&layout=compact&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Useful Links
-<!-- Add Linkedin, Website, reumse and other's you can think of. also credit all the repos and everything here -->
-  
   
  <div id="badges">
    <a href= "https://www.linkedin.com/in/masonschenk/">
@@ -45,10 +43,6 @@
     <img src= "https://img.shields.io/badge/Website-purple?&style=for-the-badge" alt="Website Badge" />
    </a>
    
-   <a href= "https://webmailbyui-my.sharepoint.com/:w:/r/personal/mschenk7474_byui_edu/Documents/Most%20Recent%20Software%20Engineering%20Resume.docx?d=wb8fe878e135c4ec4bdee11d69febea7f&csf=1&web=1&e=pRtH3V">
-    <img src= "https://img.shields.io/badge/Resume-Red?logo=resume&logoColor=white&style=for-the-badge" alt="Resume Badge"
-   </a>
-  
    
  </div>
   
