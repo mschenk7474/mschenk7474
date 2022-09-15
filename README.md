@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/>
 </div>
 
-# Welcome! I'm Mason Schenk
+<h1><center> Welcome! I'm Mason Schenk</center></h1>
 ## About Me
 <!--
 **mschenk7474/mschenk7474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
