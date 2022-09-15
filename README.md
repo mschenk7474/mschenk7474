@@ -8,6 +8,9 @@
 - :school: I’m currently learning cloud databases and all there is to know about them.
 - :busts_in_silhouette: I’m looking to collaborate on any project. I am always down to learn new things and collaborate with others!
 ## Languages and Tools
+<div>
+  <img src="https://user-images.githubusercontent.com/91348450/190500364-8584b99d-b757-4a7f-a3e5-8f5dd3771af2.png"/>
+</div
 <!-- Add a button for the portfolio -->
 
 ## My Stats:
