@@ -41,6 +41,10 @@
     <img src= "https://img.shields.io/badge/Website-purple?&style=for-the-badge" alt="Website Badge" />
    </a>
    
+   <a href= "https://leetcode.com/mschenk7474/">
+    <img src= "https://img.shields.io/badge/LeetCode-grey?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCpde Badge" />
+   </a>
+   
  </div>
   
   
