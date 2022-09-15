@@ -2,9 +2,7 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/>
 </div>
 
-<div align="center">
-  <p style="font-weight: bold;"> Welcome! I'm Mason Schenk </h>
-</div>
+# Welcome! I'm Mason Schenk
 <!--
 **mschenk7474/mschenk7474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=mschenk7474)](https://git.io/streak-stats)"/>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=mschenk7474)](https://git.io/streak-stats)"
