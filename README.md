@@ -14,8 +14,7 @@
   <img src="https://user-images.githubusercontent.com/91348450/190503336-931bae8a-3a09-42b5-9ac2-38b11aa06880.png" width="60" height="60"/>
   <img src="https://user-images.githubusercontent.com/91348450/190502954-f8d9f6df-8dcd-4e78-a6ee-4a51d201d876.png" width="60" height="60"/>
   <img src="https://user-images.githubusercontent.com/91348450/190504696-a8f6957b-40db-4295-b196-30e2874c84e3.png" width="60" height="60"/>
-
-  
+  <img src="https://user-images.githubusercontent.com/91348450/190504946-794237c1-ba34-4ca1-84a2-5dc67aea7534.png" width="60" height="60"/>
 
 
 </div
@@ -27,4 +26,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mschenk7474&layout=compact&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Useful Links
-<!-- Add Linkedin, Website, reumse and other's you can think of -->
+<!-- Add Linkedin, Website, reumse and other's you can think of. also credit all the repos and everything here -->
