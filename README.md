@@ -38,13 +38,16 @@
    </a>
    
    <a href= "https://leetcode.com/mschenk7474/">
-    <img src= "https://img.shields.io/badge/LeetCode-grey?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCpde Badge" />
+    <img src= "https://img.shields.io/badge/LeetCode-grey?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode Badge" />
    </a>
    
    <a href= "https://mason-me.glitch.me/index.html">
     <img src= "https://img.shields.io/badge/Website-purple?&style=for-the-badge" alt="Website Badge" />
    </a>
    
+   <a href= "https://webmailbyui-my.sharepoint.com/:w:/r/personal/mschenk7474_byui_edu/Documents/Most%20Recent%20Software%20Engineering%20Resume.docx?d=wb8fe878e135c4ec4bdee11d69febea7f&csf=1&web=1&e=pRtH3V">
+    <img src= "https://img.shields.io/badge/Resume-Red?logo=resume&logoColor=white&style=for-the-badge" alt="Resume Badge"
+   </a>
   
    
  </div>
