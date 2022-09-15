@@ -38,7 +38,7 @@
    </a>
    
    <a href= "https://mason-me.glitch.me/index.html">
-    <img src= "https://img.shields.io/badge/Website-purple?&style=for-the-badge" alt="Website Badge" />
+    <img src= "https://img.shields.io/badge/Website-purple?logo=website&logoColor=white&style=for-the-badge" alt="Website Badge" />
    </a>
    
    <a href= "https://leetcode.com/mschenk7474/">
