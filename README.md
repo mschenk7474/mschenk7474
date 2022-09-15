@@ -6,7 +6,7 @@
 ## About Me
 - :man_office_worker: I’m currently working on going through coding questions on Leetcode to study for interviews.
 - :school: I’m currently learning cloud databases and all there is to know about them.
-- :busts_in_silhouette: I’m looking to collaborate on any project. I am always down to learn new things and collaboratewith others!
+- :busts_in_silhouette: I’m looking to collaborate on any project. I am always down to learn new things and collaborate with others!
 ## Languages and Tools
 <!-- Add a button for the portfolio -->
 
