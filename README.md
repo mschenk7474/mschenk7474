@@ -4,7 +4,7 @@
 
 # Welcome! I'm Mason Schenk
 ## About Me
-- :man_office_worker: I’m currently working on going through problems on Leetcode to study for interviews.
+- :man_office_worker: I’m currently working on going through coding questions on Leetcode to study for interviews.
 - :school: I’m currently learning cloud databases and all there is to know about them.
 - :busts_in_silhouette: I’m looking to collaborate on any project. I am always down to learn new things and collaboratewith others!
 ## Languages and Tools
