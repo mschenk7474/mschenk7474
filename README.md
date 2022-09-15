@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h> Hello! I'm Mason Schenk </h>
+  <h style="font-weight: bold;"> Wlecome! I'm Mason Schenk </h>
 </div>
 <!--
 **mschenk7474/mschenk7474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
