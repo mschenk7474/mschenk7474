@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="head gif" align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/>
 </div>
 
@@ -42,9 +42,16 @@
    <a href= "https://mason-me.glitch.me/index.html">
     <img src= "https://img.shields.io/badge/Website-purple?&style=for-the-badge" alt="Website Badge" />
    </a>
-   
-   
  </div>
   
   
  ## References
+ ### Template and Resources I Used to Build This Awesome README:
+ -[Template Walkthrough](https://www.sitepoint.com/github-profile-readme/)
+ -[Gif](https://giphy.com/)
+ -[Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+ -[Icons](https://github.com/devicons/devicon/tree/master/icons)
+ -[GitHub Streaks](https://github.com/DenverCoder1/github-readme-streak-stats)
+ -[GitHub Most Used Languages Stats](https://github.com/anuraghazra/github-readme-stats)
+ -[Cool Badges](https://shields.io/)
+ -[Template Creator](https://github.com/itsZed0)
