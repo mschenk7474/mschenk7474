@@ -13,8 +13,6 @@
   <img src="https://user-images.githubusercontent.com/91348450/190500928-190e36b2-7bc6-4cd6-b1c3-5a9ad91eacef.png" width="60" height="60"/>
   <img src="https://user-images.githubusercontent.com/91348450/190502954-f8d9f6df-8dcd-4e78-a6ee-4a51d201d876.png" width="60" height="60"/>
   <img src="https://user-images.githubusercontent.com/91348450/190503336-931bae8a-3a09-42b5-9ac2-38b11aa06880.png" width="60" height="60"/>
-  
-  ![image]()
 
 
 
