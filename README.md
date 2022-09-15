@@ -3,6 +3,7 @@
 </div>
 
 # Welcome! I'm Mason Schenk
+## About Me
 <!--
 **mschenk7474/mschenk7474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
