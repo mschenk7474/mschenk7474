@@ -5,8 +5,8 @@
 # Welcome! I'm Mason Schenk
 ## About Me
 - :desktop_computer: I am a Full Stack Developer based in Idaho, USA.
-- :man_office_worker: I’m currently working on creating a C# program to mimic a weather application
-- :school: I’m currently learning C# and .NET framework
+- :man_office_worker: I’m currently working on creating a Calculator in Java
+- :school: I’m currently learning Java
 - :busts_in_silhouette: I’m looking to collaborate on any project. I am always down to learn new things and collaborate with others!
 ## Languages and Tools
 <div id="tech">
