@@ -5,8 +5,8 @@
 # Welcome! I'm Mason Schenk
 ## About Me
 - :desktop_computer: I am a Full Stack Developer based in Idaho, USA.
-- :man_office_worker: I’m currently working on creating a Calculator in Java
-- :school: I’m currently learning Java
+- :man_office_worker: I’m currently working on creating a Sleep Calculator within an IOS Swift App
+- :school: I’m currently learning Swift and SwiftUI
 - :busts_in_silhouette: I’m looking to collaborate on any project. I am always down to learn new things and collaborate with others!
 ## Languages and Tools
 <div id="tech">
