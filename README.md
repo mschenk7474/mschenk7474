@@ -4,7 +4,7 @@
 
 # Welcome! I'm Mason Schenk
 ## About Me
-- :desktop_computer: I am a Full Stack Developer based in Idaho, USA.
+- :desktop_computer: I am a Software Engineer based in Idaho, USA.
 - :man_office_worker: I’m currently working on creating a GIS map with the top tourist attraction in each of the 50 states of the United States
 - :school: I’m currently learning about GIS mapping and how to implement that in a web app
 - :busts_in_silhouette: I’m looking to collaborate on any project. I am always down to learn new things and collaborate with others!
