@@ -5,7 +5,7 @@
 # Welcome! I'm Mason Schenk
 ## About Me
 - :desktop_computer: I am a Software Engineer based in Arkansas, USA.
-- :school: I recently got accepted to the Georgia Tech Online Masters of Science in Computer Science program
+- :school: I recently got accepted to the Georgia Tech Online Masters of Science in Computer Science program. 
 - :busts_in_silhouette: I’m looking to collaborate on any project. I am always down to learn new things and collaborate with others!
 ## Languages and Tools
 <div id="tech">
